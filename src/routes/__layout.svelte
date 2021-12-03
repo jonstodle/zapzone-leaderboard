@@ -1,8 +1,8 @@
 <nav>
   <a href="/">
-  <h1>
-    Zapzone
-  </h1>
+    <h1>
+      Zapzone
+    </h1>
   </a>
 
   <a href="/admin" class="button pseudo">

@@ -1,5 +1,5 @@
 <script lang="ts">
-  import {rankings} from '$lib/store'
+  import { rankings } from '$lib/store';
 </script>
 
 {#each $rankings as ranking}
@@ -17,6 +17,8 @@
   article.card {
     display: flex;
     align-items: center;
+    gap: 1rem;
+    padding: 0 .5rem;
   }
 
   article.card .score-container {
